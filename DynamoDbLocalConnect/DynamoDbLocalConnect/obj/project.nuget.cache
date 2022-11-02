@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZymFfFNArkADTsSh3fSkxrli7di54vscr4kQmVEIYP/ASBmKQ5wxGjoYcpERZ2C8wcB0fKtMJzrT2DvJQHE5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\repos\\DynamoDbLocalConnect\\DynamoDbLocalConnect\\DynamoDbLocalConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\awssdk.core\\3.7.100.3\\awssdk.core.3.7.100.3.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.100.3\\awssdk.dynamodbv2.3.7.100.3.nupkg.sha512"
+  ],
+  "logs": []
+}
